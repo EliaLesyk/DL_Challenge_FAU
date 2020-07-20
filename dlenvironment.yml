@@ -1,0 +1,12 @@
+name: DLEx4
+channels:
+  - defaults
+dependencies:
+  - pytorch
+  - torchvision
+  - scikit-image
+  - scikit-learn
+  - pandas
+  - pip
+  - pip:
+    - onnxruntime
